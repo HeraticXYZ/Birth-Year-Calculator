@@ -6,3 +6,4 @@ P1362_birthfunction.png - Petrona Cintrón Cintrón - Her baptism was later foun
 
 P3049_birthfunction.png - María de Rivera Colón - Her baptism was later found in 1715, confirming the distribution.
 
+birth_function.png - Mariana de Morales Pacheco - Her baptism was later found in 1717, confirming the distribution.
